@@ -34,7 +34,7 @@ body {
 }
 
 .container {
-  width: 85%;
+  width: 80%;
   max-width: 1440px;
   margin: 0 auto;
   overflow: hidden;
@@ -134,7 +134,7 @@ body {
   }
 
   .header__logo {
-    width: 150px;
+    width: 200px;
   }
 
   .main-hero {
