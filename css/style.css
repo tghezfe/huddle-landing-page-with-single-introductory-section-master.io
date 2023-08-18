@@ -134,7 +134,7 @@ body {
   }
 
   .header__logo {
-    width: 200px;
+    width: 180px;
   }
 
   .main-hero {
@@ -142,16 +142,16 @@ body {
   }
 
   .main-hero__fig {
-    width: 50%;
+    width: 55%;
     margin-bottom: 0;
   }
 
   .main-hero__right {
-    width: 50%;
+    width: 45%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 0 0 0 var(--size-5);
+    padding: 0 0 0 var(--size-6);
   }
 
   .main-hero__text {
